@@ -1,0 +1,47 @@
+
+Abstract
+Proposal
+
+
+
+Mauritius Police Force is one of main and complex organisation in Mauritius for the preservation of peace and prevention and detection of all offences and all other duties required by law without fear of favour, affection or ill-will. The Mauritius Police Force has recently came with the National Strategic Policing Framework with the vision from moving the “Mauritius Police Force” to the “Mauritius Police Service” with the collaboration and help from the UNODC (United Nations Office on Drugs and Crime).
+
+Presently, the records of habitual and potential criminals are kept as flat file documents at police stations, hence, to promote a better reactive investigations in the field of Enhancing Reactive Capability, it is important that Police officers accessed the records of habitual or potential criminals within very limited time.
+
+
+
+Scope of Project.
+
+
+
+In the present system, there is a need to to keep tracks and records of habitual criminals all over the island which are still performed manually using several record books thus this leads to lots of paper work and duplication of work.
+
+The scope of the Project is to computerise the manual system for tracking of records. The new system will be adapted for smartphone android app
+Aims and objectives of the Project
+
+
+
+The new system is software based Criminal Database Tracking System which will enable police officers to access the system by using their personal login and password to perform the following:
+
+    Inserting on records where exactly on which latitude and longitude a potential or habitual criminal is seen.
+
+    To access all particulars and siblings of habitual criminals
+
+    Make queries on HIV criminals and recently condemned offenders if necessary
+
+    Mode of operating and exact place of residence of any particular offender or criminal
+
+    Giving access to other police officers where a particular habitual criminal was seen
+
+    The probable distances and routes from any potential offender or criminal to other areas using Google Maps service
+
+    Generate Reports within short time
+
+    Generate statistics
+
+
+
+This system will be accessed by Police officers, System Administrators and Senior Police officers. The System Administrators will mainly use the system for fault and log monitoring and updates within the system. Police officers will update fields and records when required, have full control of the system and keep track of all security issues. Senior police officers will monitored the records inserted by police officers, perform statistics and probability analysis and even insert record about any potential criminal.
+
+The system is developed using different interface to input tracks and records, loggings of habitual criminals and potential offenders. The data of the Mauritius Police Criminal Database Tracking will be secured on the system. All legal and ethical aspects will be taken into consideration including Data Protection, Copyright, Intellectual rights acts while designing the software. The system will be a software based interface system using XHTML, Java, CSS, PHP, AJAX and MySQL.
+
